@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className="header">
       <h1>Sudhansu Sahu</h1>
-      <p>Full Stack Developer | Python, Django, React</p>
+      <p>Full Stack Developer | Python, Django, React, React-Native</p>
     </header>
   );
 };
